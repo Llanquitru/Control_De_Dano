@@ -1,0 +1,106 @@
+.Centro {
+
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  align-items: center;
+  height: 100vh;
+  padding: 20px;
+
+
+}
+
+.Titulo {
+
+  text-align: center;
+  height: 10vh;
+
+
+
+  text-shadow: 2px 2px #1b1b1b;
+  padding: 20px;
+
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(241, 241, 241);
+}
+
+.form-control {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  margin: auto;
+
+}
+
+.Formulario {
+  margin: auto;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  padding: 10px;
+  width: 50%;
+
+}
+
+.FormularioV2 {
+
+
+  font-family: Helvetica, sans-serif;
+  padding: 20px;
+  margin-left: 50px;
+  width: 50%;
+  text-align: center;
+}
+
+.botonLogin {
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.Botones {
+
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+
+}
+
+.logo {
+  margin-right: 50px;
+}
+
+
+
+.contenedorBotones button {
+  background: linear-gradient(to right, black, red, black) !important;
+  /*0575e6, #00f260*/
+  color: white;
+}
+
+.derivar {
+  background: linear-gradient(to left, yellow, #008923) !important;
+  /*0575e6, #00f260*/
+  color: white !important;
+}
+
+#navegacion {
+  background: linear-gradient(to right, black, red, black) !important;
+  /*0575e6, #00f260*/
+  color: white;
+}
+
+.nav-item a,
+.nav-item img {
+  color: white;
+}

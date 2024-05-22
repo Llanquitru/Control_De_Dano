@@ -1,0 +1,16 @@
+{
+    "name": "elias/proyecto",
+    "autoload": {
+        "psr-4": {
+            "Elias\\Proyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elias"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.28"
+    }
+}
